@@ -1,0 +1,19 @@
+# Local configuration
+.env
+.env.*
+*.local
+
+# Logs and temporary files
+*.log
+*.tmp
+logs/
+tmp/
+temp/
+
+# Build artifacts
+2TuBi
+2TuBi.exe
+*.test
+*.out
+bin/
+dist/
